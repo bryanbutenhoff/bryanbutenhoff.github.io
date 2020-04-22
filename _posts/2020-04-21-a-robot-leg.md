@@ -6,6 +6,6 @@ date: 2020-04-21
 
 # Robot Leg Model
 
-![Alt text](/img/RobotLeg.png)
+<img src="/img/RobotLeg.png" alt="robot leg" width="400"/>
 
 Some discription of robot leg creation.
